@@ -1,3 +1,3 @@
 # hello-world
-Just testing this out
-Changed this is the first feature branch
+Hello world project with dotnet web api and aurelia frontend.
+Just for play and some fun while learning github compared to TFS...
